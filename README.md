@@ -1,5 +1,4 @@
 # RurAll
-Assignment 
 
 L'intero assignment è stato scritto in Jupiter Notebook.
 
